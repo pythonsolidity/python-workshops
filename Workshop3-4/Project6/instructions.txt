@@ -1,0 +1,1 @@
+Modify the ANNclassify.ipynb file to build a prediction model for whether the person would click the ad on the website or not.
