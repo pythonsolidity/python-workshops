@@ -1,1 +1,3 @@
 Modify the ANNregression.ipynb file to build a prediction model for house prices based on neighbourhood data. 
+
+You might have to play with the layers of the neural network or the hyperparameters (optimizer, batch size etc). 

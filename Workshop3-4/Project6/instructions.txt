@@ -1,1 +1,3 @@
 Modify the ANNclassify.ipynb file to build a prediction model for whether the person would click the ad on the website or not.
+
+I managed to get a 97% accuracy. 
